@@ -1,2 +1,0 @@
-# RishikaS
-Git_demo
